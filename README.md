@@ -17,8 +17,7 @@
 	Pause - p
 </p>
 
-<h2>Preview</p2>
+<h2>Preview</h2>
 
 A video of this demo can be found [here](https://github.com/kylietmo/The-Ground-is-Lava/video.html).
-
 
