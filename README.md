@@ -1,16 +1,24 @@
 # The-Ground-is-Lava
 
-<html>
+<h2> Description </h2>
+<p>
+	The Ground is Lava is a small 2D platformer demo created in Unity. It was meant as a way to introduce and familarize myself with Unity, and also managed to provide experience with pixel art, level design, animation, and many more aspects of the game development experience. While it is quite simple (and unfortunately does not have any audio as of yet), it was a blast to work on in between school and work.
+	
+</p>
+<h2> Controls </h2>
 
-<head>
-	<title>The Ground Is Lava Demo</title>
-</head>
+<p>
+	Move - Arrow Keys
+<br>
+	Jump - SpaceBar
+<br>
+	Attack (once sword is obtained) - x
+<br>
+	Pause - p
+</p>
 
-<body>
-	<video width="640" height="480" autoplay loop>
-    	<source src="demo_video.mp4" type="video/mp4">
-    	<source src="demo_video.mov" type="video/mov">
-  	</video>
-</body>
+<h2>Preview</p2>
 
-</html>
+A video of this demo can be found [here](https://github.com/kylietmo/The-Ground-is-Lava/video.html).
+
+
