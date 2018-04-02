@@ -19,5 +19,5 @@
 
 <h2>Preview</h2>
 
-A video of this demo can be found [here](https://github.com/kylietmo/The-Ground-is-Lava/video.html).
+A video of this demo can be found [here](http://htmlpreview.github.com/?https://github.com/kylietmo/The-Ground-is-Lava/blob/master/preview/video.html).
 
