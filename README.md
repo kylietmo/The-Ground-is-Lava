@@ -19,5 +19,7 @@
 
 <h2>Preview</h2>
 
+![Image failed to load.](https://github.com/kylietmo/The-Ground-is-Lava/blob/master/preview/picture.png)
+
 A video of this demo can be found [here](http://htmlpreview.github.com/?https://github.com/kylietmo/The-Ground-is-Lava/blob/master/preview/video.html).
 
